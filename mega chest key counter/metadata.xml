@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Mega Chest Key Counter</name>
+    <directory>mega chest key counter</directory>
+    <id>3630321926</id>
+    <description>This mod shows you how many keys you'll need to insert to open a mega chest.
+
+Similar crane game support has been added to [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2998779374]Crane Game Tweaks[/url].</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Pickups"/>
+    <tag id="Tweaks"/>
+</metadata>
